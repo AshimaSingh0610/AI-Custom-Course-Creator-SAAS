@@ -83,7 +83,7 @@ npm run dev
 yarn dev
 ```
 
-Visit the app at `[http://localhost:3000](https://ai-course-generator-ten.vercel.app/)`.
+Visit the app at `[http://localhost:3000](https://ai-course-crafter-n-generator.vercel.app/)`.
 
 # ⚙️ Configuration
 
