@@ -41,7 +41,7 @@ This cutting-edge full-stack web app is crafted with Next.js, React, and Tailwin
 
 ### Clone the repository
 ```bash
-git clone https://github.com/varun442/AI-Course-Generator.git
+git clone https://github.com/AshimaSingh0610/AI-Custom-Course-Creator-SAAS
 cd AI-Course-Generator
 ```
 
@@ -96,7 +96,7 @@ This app leverages the Gemini API to generate AI-driven content for courses. You
 ### YouTube API
 For video integration, the application uses the YouTube Data API. You can get an API key from the Google Developer Console.
 
-#🛠️  Usage
+# 🛠️  Usage
 
 ### Creating a Course
 1. Sign Up / Log In: Use Clerk authentication to sign up or log in.
