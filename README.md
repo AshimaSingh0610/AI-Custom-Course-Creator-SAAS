@@ -1,6 +1,6 @@
 
 
-# 🎓 AI-Powered Course Builder Cum Creator - Full Stack Web App
+# 🎓 AI-Powered Course Builder & Creator - Full Stack Web App
 
 
 <div align="center">
